@@ -20,4 +20,4 @@
 
 10. Bread Board
 
-** These peripheral devices may vary according to your needs **
+** These peripheral devices may vary according to your needs ** 
